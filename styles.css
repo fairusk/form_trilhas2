@@ -1,0 +1,109 @@
+body {
+    background-color:#f37820;
+}
+.foto {
+    position: absolute;
+	right: 50px;
+	top: 150px;
+}
+.quadradobranco {
+    width:600px;
+    height:670px;
+    background-color:aliceblue;
+    position: absolute;
+	left: 150px;
+	top: 50px;
+    border-radius: 15px; 
+    
+}
+.texodomeio {
+    margin-left: 200px;
+}
+.Nomecomplet{
+    width:350px;
+    height:30px;
+    left: 30px;
+	top: 05px;
+    margin-left:100px;
+    line-height: 40px;
+    }
+.Email {
+    width:350px;
+    height:30px;
+    left: 30px;
+    top: 15px;
+	margin-top:20px;
+    margin-left: 100px;
+}
+.cpf {
+    width:350px;
+    height:30px;
+    left: 30px;
+	margin-top:20px;
+    margin-left: 100px;    
+}
+.telefone {
+    width:350px;
+    height:30px;
+    left: 30px;
+	margin-top:20px;
+    margin-left: 100px;    
+}
+.endereco {
+    width:350px;
+    height:30px;
+    left: 30px;
+	margin-top:20px;
+    margin-left: 100px; 
+}
+.cidade {
+    width:350px;
+    height:30px;
+    left: 30px;
+	margin-top:20px;
+    margin-left: 100px; 
+}
+.texto3 {
+    color: crimson;
+    margin-left:99px;
+    margin-top:-00px;
+}
+.imagem1 {
+    margin-top:40px;
+    margin-left: 120px;
+	left: 50px;
+	top: 50px;
+    margin-top:04px;
+}
+.imagem2{
+    margin-top:40px;
+    margin-left: 150px;
+	left: 50px;
+	top: 50px;
+    margin-top:10px;
+}
+.texto1 {
+    margin-left: 100px; 
+
+}
+
+.texto2 {
+    margin-left:303px;
+    margin-top:-35px;
+}
+.canselar{
+    margin-left:100px;
+    margin-top:50px;
+    width:100px;
+    height:30px;
+    background-color:#f37820;
+    color: white;
+}
+.enviar {
+     margin-left:120px;
+     margin-top:-10px;
+     width:100px;
+    height:30px;
+    background-color:  #f37820;
+    color: white;
+}
